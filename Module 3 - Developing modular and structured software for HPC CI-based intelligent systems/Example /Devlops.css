@@ -1,0 +1,22 @@
+my_hpc_project/
+│
+├── src/
+│   ├── __init__.py
+│   ├── data_loader.py
+│   ├── preprocessor.py
+│   ├── model.py
+│   ├── hpc_utils.py
+│   └── main.py
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_data_loader.py
+│   ├── test_preprocessor.py
+│   ├── test_model.py
+│   └── test_hpc_utils.py
+│
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+│
+└── requirements.txt
