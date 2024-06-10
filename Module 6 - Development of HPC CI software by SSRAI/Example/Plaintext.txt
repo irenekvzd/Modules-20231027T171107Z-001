@@ -1,0 +1,6 @@
+Objective: Develop an AI-based image classification application that can classify images into predefined categories.
+Requirements:
+- A dataset of labeled images.
+- A pre-trained neural network model (e.g., ResNet, VGG).
+- Frameworks: TensorFlow, Keras, OpenCV.
+- Evaluation metrics: Accuracy, Precision, Recall, F1-Score.
